@@ -1,0 +1,6 @@
+{
+  "name": "Mundo das Estorinhas",
+  "description": "Um portal mágico de histórias infantis interativas em 3D, com narração automatizada e trilha sonora.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
